@@ -1,1 +1,14 @@
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/config/WebSecurityConfig.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/repository/UserRolesRepository.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/repository/package-info.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/web/package-info.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/entity/UserRole.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/entity/User.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/service/CustomUserDetails.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/service/CustomUserDetailsService.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/entity/package-info.java
 /Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/TodoAppApplication.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/repository/UserRepository.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/service/package-info.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/config/MvcConfig.java
+/Users/naresh.ravurumckesson.com/Learning/Galvanize/TDDProjects/ToDoApp/src/main/java/com/todo/app/web/LoginController.java
